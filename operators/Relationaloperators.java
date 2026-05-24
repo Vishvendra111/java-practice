@@ -1,6 +1,6 @@
 package operators;
 import java.util.*;
-public class Relationaloperators {
+public class RelationalOperators {
     public static void main(String[] arg){
         //1
         System.out.println("1.no. is positive and negative");
