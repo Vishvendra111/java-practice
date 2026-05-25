@@ -1,4 +1,4 @@
-package operators;
+package conditionalstatements;
 import java.util.*;
 public class conditionalstatement {
     public static void main(String[] arg){
