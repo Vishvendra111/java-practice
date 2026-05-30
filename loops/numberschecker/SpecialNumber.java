@@ -2,7 +2,7 @@ package loops.numberschecker;
 import java.util.*;
 
 public class SpecialNumber {
-    public static void main(String[] args) {
+    public static void main(String args[]) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter a number");
         int number = sc.nextInt();
